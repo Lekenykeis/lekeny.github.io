@@ -1,0 +1,46 @@
+body{background-repeat: no-repeat;
+     padding: 0px;
+     margin: 0px;
+     background-attachment: fixed;
+     background-size: cover;
+     z-index: -1;
+     }
+     .container{ width: 500px;
+                height: 400px;
+                text-align: center;
+                margin:0 auto; 
+              margin-top: 150px;
+              border-radius: 4px;
+              background-color: rgba(52,73,94,0.7);}
+              .container img{width: 120px;
+                             height: 120px;
+                             margin-top: -60px;
+                             margin-bottom: : 30px;
+                             border-radius: 100%;
+                             }
+                             input{height: 45px;
+                                   width: 300px;
+                                   font-size:15px;
+                                   margin-bottom: 20px;
+                                   background-color: #fff;
+                                   padding-left: 40px;}
+                                   .form-input::before{content: "";
+                                                      position: absolute;
+                                                      font-family: "FontAwesome";
+                                                      font-size: 30px;
+                                                      padding-left: 5px;
+                                                      padding-top: 5px;
+                                                      font-size: 35px;
+                                                      color: ;
+
+                                                  }
+                                                  .btn-lo{
+                                                  	 background-color: #16a085;
+                                                  	 border-radius: 100px;
+                                                  	 border: none;
+                                                     font-size: 20px;
+                                                  	 height: 70px;
+                                                  	 width: 70px;
+
+                                                  }
+                                                
